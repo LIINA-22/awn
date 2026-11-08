@@ -1,0 +1,4 @@
+# موقع ثابت بدون بناء
+[build]
+  publish = "."
+  command = ""
